@@ -18,7 +18,7 @@ body {
     font-size: 1.8rem;
 
     /* fallback if unsplash fails */
-    background: #212121;
+    background: #353535;
 }
 
 #city {
