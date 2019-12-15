@@ -1,0 +1,14 @@
+{
+    "name": "fancy-weather",
+    "version": "1.0.0",
+    "description": "Display the weather at your current location.",
+    "main": "app.js",
+    "author": "AlinaKarpenkova",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3",
+        "node": "^10.8.0",
+        "weather-js": "^2.0.0"
+    }
+}
